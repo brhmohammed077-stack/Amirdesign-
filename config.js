@@ -6,5 +6,5 @@
 */
 window.AMIRDESIGN_CONFIG = {
   recipientEmail: "goldennarthur@gmail.com",
-  formEndpoint: ""
+  formEndpoint: "https://formspree.io/f/xzedlazw"
 };
